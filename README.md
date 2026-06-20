@@ -6,5 +6,5 @@ Published with GitHub Pages from the `docs/` directory.
 
 ## Pages
 
-- Fancy / 知饭 privacy policy: <https://leaking.github.io/app-policies/zhifan/privacy/>
-- Fancy / 知饭 support: <https://leaking.github.io/app-policies/zhifan/support/>
+- 知饭·Fancy privacy policy: <https://leaking.github.io/app-policies/zhifan/privacy/>
+- 知饭·Fancy support: <https://leaking.github.io/app-policies/zhifan/support/>
